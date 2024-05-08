@@ -1,2 +1,2 @@
 # Start_first
-Machine Learning Guided Projects
+Machine Learning Self-Guided Projects
